@@ -5,6 +5,6 @@ public class Abc
 		System.out.println("HELLO From GITHUB");
 		System.out.println("But this program is compiled by Jenkins");
 		System.out.println("Also executed by Jenkins only");
-		System.out.println("From GITHUB");
+		System.out.println("GITHUB");
 	}
 }
